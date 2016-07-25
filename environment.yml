@@ -1,0 +1,21 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+- python=2.7
+- cython
+- ipyparallel
+- jupyter
+- numba
+- numpy
+- sklearn
+- scipy
+- seaborn
+- toolz
+- unidecode
+- pip:
+  - humanize
+  - keras
+  - mxnet
+  - sframe
+  - xgboost

@@ -1,0 +1,10 @@
+bokeh
+GraphLab-Create
+graphviz
+humanize
+ipyparallel
+jupyter
+keras
+sframe
+toolz
+xgboost
